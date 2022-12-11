@@ -4,3 +4,4 @@ git is free software under GPL.哈哈哈，哈你吗。
 test conflict resolve
 test difference between ff and normalxx
 xxxx
+yyyy
